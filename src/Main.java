@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        int x = 4_000;
-        int y = 20;
-        int bonus = x / y;
+        int price = 4_000;
+        int mile = 20;
+        int bonus = price / mile;
         System.out.println("Количество бонусных милль: " + bonus);
 
         // Объявляете переменные для входных данных и
